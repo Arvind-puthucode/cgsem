@@ -13,4 +13,6 @@ triangle.py
 
 cantor.py
 
+bezier.py
+
 
