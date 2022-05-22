@@ -1,4 +1,4 @@
-# cgsem
+
 # cg  code
 
 c-curve.py
